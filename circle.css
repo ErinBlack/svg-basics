@@ -1,0 +1,9 @@
+line {
+  stroke: red;
+  stroke-linecap: round;
+  stroke-width: 5;
+}
+#blueLine {
+    stroke: blue;
+    stroke-width: 12;
+}
