@@ -1,8 +1,25 @@
+.svgContainer {
+  max-width: 1200px;
+  max-height: 200px;
+}
+
+
+.svgContainer--tall {
+  max-height: 525px;
+}
+
 line {
   stroke: red;
   stroke-linecap: round;
   stroke-width: 5;
 }
+
+circle {
+  fill:lightblue;
+  stroke: red;
+  fill-opacity: .5;
+}
+
 
 #blueLine {
     stroke: blue;
