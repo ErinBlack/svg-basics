@@ -1,7 +1,7 @@
 
 # SVG Basics
 Learning the basics of creating SVG elements on the DOM.
-(./svg-screenshot.png)
+![svg screnshots](svg-screenshot.png "SVG Examples screenshot")
 
 
 ## SVG Elements Explored
