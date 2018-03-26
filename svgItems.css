@@ -15,3 +15,10 @@ rect {
   fill: #888;
   fill-opacity: .5;
 }
+
+polygon {
+  fill: green;
+  fill-opacity: .6;
+  stroke: yellow;
+  stroke-width: 2;
+}
